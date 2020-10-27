@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Interactive Visualization web tool for Single Cell Mammary Epithelial Transcriptomes
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+This project provide an interactive webtool to visualize genes and regulon expressions across Single Cell Mammary Epithelial Transcriptomes. This tool provide tSNE and diffusion map representation of the cell, and the expression of the genes can be scaled for better understanding of the data.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+You can check out the webtool [here](http://uofuhealth.utah.edu/huntsman/labs/spike/d3.php)
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/Single1.jpg)
