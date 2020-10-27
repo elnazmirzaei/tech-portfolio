@@ -51,3 +51,5 @@ targeted therapy in lung adenocarcinoma." bioRxiv (2020).
 ## Presentations
 1. Elnaz Mirzaei Mehrabad, University of Utah, Huntsman Cancer Institute, United States of America
 Title: “Recommender Systems for Gene Expression Recovery in scRNA-seq Data” PEARC 19, Chicago, US
+2. Elnaz Mirzaei Mehrabad, University of Utah, Huntsman Cancer Institute, United States of America
+Title: “Matrix Factorization for Gene Expression Recovery in scRNA-seq Data” TAPIA 20, US
